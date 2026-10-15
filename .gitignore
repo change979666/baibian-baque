@@ -1,0 +1,32 @@
+# Godot 引擎与缓存（从官网单独下载，勿提交）
+Godot*/
+.godot/
+*.imported/
+*.uid.bak
+
+# 构建产物
+bin/
+*.exe
+
+# 个人工具目录
+.workbuddy/
+
+# Python 辅助脚本产物
+__pycache__/
+*.py[cod]
+.venv/
+
+# 运行日志与临时输出
+*.log
+*_out.txt
+*_clean.txt
+*_prog.txt
+*_tail.txt
+*_summary.txt
+out*.txt
+output*.txt
+reference_video.mov
+
+# 系统
+.DS_Store
+Thumbs.db
