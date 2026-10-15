@@ -1,5 +1,7 @@
 # 百变八雀 · 点字成金
 
+A Godot 4 desktop mahjong-inspired card game with hand and combo rules, AI opponent behavior, audio assets, and automated tests.
+
 使用 **Godot 4.7.2** 开发的桌面麻将牌类游戏工程，包含完整源码、场景与自动化测试套件。
 
 ## 游戏简介
